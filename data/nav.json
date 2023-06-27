@@ -1,0 +1,68 @@
+{
+    "navList":[
+        {"name":"游戏资料","bottom":"DATA"},
+        {"name":"内容中心","bottom":"CONTENTS"},
+        {"name":"赛事中心","bottom":"MATCH"},
+        {"name":"百态王者","bottom":"CULTURE"},
+        {"name":"社区互动","bottom":"COMMUNITY"},
+        {"name":"玩家支持","bottom":"PLAYER"},
+        {"name":"IP新游","bottom":"NEW GAMES"}
+    ],
+    "navDownOneList":[
+        {"name":"版本介绍", "isShowImg":false},
+        {"name":"游戏介绍", "isShowImg":false},
+        {"name":"英雄资料", "isShowImg":false},
+        {"name":"爆料网", "isShowImg":"H"},
+        {"name":"世界观体验站", "isShowImg":"N"},
+        {"name":"游戏壁纸", "isShowImg":false}
+    ],
+    "navDownTowList":[
+        {"name":"战略中心", "isShowImg":false},
+        {"name":"开放素材库", "isShowImg":false},
+        {"name":"内容共创平台", "isShowImg":"N"},
+        {"name":"手语打法参考", "isShowImg":"N"}
+    ],
+    "navDownThreeList":[
+        {"name":"KPL", "isShowImg":"H"},
+        {"name":"K甲联赛", "isShowImg":false},
+        {"name":"世界冠军杯", "isShowImg":false},
+        {"name":"挑战者杯", "isShowImg":false},
+        {"name":"全国大赛", "isShowImg":"H"},
+        {"name":"女子公开赛", "isShowImg":false},
+        {"name":"高校联赛", "isShowImg":false},
+        {"name":"王者赛宝", "isShowImg":"N"},
+        {"name":"赛事数据", "isShowImg":false}
+    ],
+    "navDownFourList":[
+        {"name":"荣耀·传承", "isShowImg":false},
+        {"name":"王者文化站", "isShowImg":false},
+        {"name":"万千世界", "isShowImg":false},
+        {"name":"王者绝悟", "isShowImg":"N"},
+        {"name":"星光殿堂", "isShowImg":false},
+        {"name":"IP共创计划", "isShowImg":"N"},
+        {"name":"商户特权", "isShowImg":false},
+        {"name":"龙翼王者卡", "isShowImg":"N"}
+    ],
+    "navDownFiveList":[
+        {"name":"创意互动营", "isShowImg":"H"},
+        {"name":"王者营地", "isShowImg":"H"},
+        {"name":"微信圈子", "isShowImg":false},
+        {"name":"官方微博", "isShowImg":false},
+        {"name":"微信公众号", "isShowImg":false},
+        {"name":"手Q订阅号", "isShowImg":false}
+    ],
+    "navDownSixList":[
+        {"name":"腾讯游戏防沉迷", "isShowImg":false},
+        {"name":"成长守护平台", "isShowImg":true},
+        {"name":"对局环境情报站", "isShowImg":false},
+        {"name":"客服专区", "isShowImg":false},
+        {"name":"礼包兑换", "isShowImg":false},
+        {"name":"自助服务", "isShowImg":false}
+    ],
+    "navDownSevenList":[
+        {"name":"王者荣耀·世界", "isShowImg":"N"},
+        {"name":"代号:破晓", "isShowImg":"N"},
+        {"name":"代号:启程", "isShowImg":"N"},
+        {"name":"王者万象棋", "isShowImg":"N"}
+    ]
+}
